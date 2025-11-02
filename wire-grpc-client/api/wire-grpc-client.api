@@ -1,4 +1,4 @@
-public abstract interface class com/squareup/wire/GrpcCall {
+(hash) clone public abstract interface class com/squareup/wire/GrpcCall {
 	public abstract fun cancel ()V
 	public abstract fun clone ()Lcom/squareup/wire/GrpcCall;
 	public abstract fun enqueue (Ljava/lang/Object;Lcom/squareup/wire/GrpcCall$Callback;)V
